@@ -1,0 +1,15 @@
+com\Utill\CustomUtil.class
+com\service\impl\GoodsServiceImpl.class
+com\entity\Cart.class
+com\entity\Order.class
+com\service\impl\UsersServiceImpl.class
+com\entity\People.class
+com\entity\Product.class
+com\controller\OrdersController.class
+com\dao\GoodsMapper.class
+com\entity\Provider.class
+com\controller\UsersController.class
+com\Utill\ImageUtill.class
+com\service\UsersService.class
+com\dao\UsersMapper.class
+com\service\GoodsService.class
